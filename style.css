@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* #title{
+    background-image: url("shifaaz-shamoon-Rl9l9mL6Pvs-unsplash.jpg");
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+} */
+
+/* .title-image{
+    position: absolute;
+    z-index: -1;
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+} */
+
+
+
+.heading{
+    font-size: large;
+    position:relative;
+    color: white;
+    padding: 20% 25%;
+}
+
+.heading h1{
+    font-size: 3.5rem;
+}
+
+.heading p{
+    font-size: 1.5rem;
+}
+
+
+#packages{
+    padding:6% 10%;
+    background-color: white;
+    position: relative;
+}
+
+.card{
+    margin:20px;
+}
+
+#features{
+    padding:6% 10%;
+    background-color: white;
+    position: relative;
+
+}
+
+.heading-features{
+    font-size: 2.5rem;
+    text-align: center;
+}
+.heading-features h1{
+    margin:0% 3% 4%;
+}
+.features-element{
+    text-align: center;
+    padding:2%;
+}
+
+.icon{
+    font-size: 4.5rem;
+    margin-bottom: 10px;
+    color:#ef8172;
+}
+
+.icon:hover{
+    color:#ff4c68;
+}
+
+#reviews{
+    padding:6% 10%;
+    background-color: white;
+    position: relative;
+}
+.review-image{
+    width:40%;
+    border-radius: 100%;
+    margin:auto;
+}
+.review-text{
+    text-align: center;
+}
+.fa-star{
+    color:rgb(243, 202, 65);
+}
+.fa-star-half-alt{
+    color:rgb(243, 202, 65);
+}
+
+.package-star{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#contact{
+    padding:7% 15%;
+    background-color: white;
+    position: relative;
+}
+
+
+#footer{
+    padding:7% 15%;
+    text-align: center;
+    background-color: white;
+}
+
+.footerIcon{
+    padding:10px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
